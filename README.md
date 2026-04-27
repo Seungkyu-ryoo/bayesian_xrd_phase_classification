@@ -81,16 +81,3 @@ Each iteration produces:
 2. **P(crystalline) map** — Probability of crystallization
 3. **4-class entropy map** — Acquisition score used to select the next measurement
 
----
-
-## Data
-
-`ground_truth_phase_fractions.csv` contains XRD phase fractions extracted from Rietveld refinements (GSAS-II) of combinatorial Hf₁₋ₓZrₓO₂ films annealed under varying flash lamp conditions. Each row corresponds to one (voltage, duration, composition) condition.
-
----
-
-## Citation
-
-If you use this code, please cite:
-
-> S.K. Ryoo et al., *Bayesian Active Learning for Phase Mapping of Hf₁₋ₓZrₓO₂ Flash Lamp Annealing*, in preparation.
