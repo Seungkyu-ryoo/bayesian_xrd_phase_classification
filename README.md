@@ -81,3 +81,8 @@ Each iteration produces:
 2. **P(crystalline) map** — Probability of crystallization
 3. **4-class entropy map** — Acquisition score used to select the next measurement
 
+## Contributors
+
+- [@Seungkyu-ryoo](https://github.com/Seungkyu-ryoo) — Project author and maintainer.
+- **Claude (Anthropic)** — AI-assisted development.
+- **Codex (OpenAI)** — AI-assisted development.
